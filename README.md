@@ -1,4 +1,4 @@
-# MongoDB Query Study Project
+# Store API Backend
 
 ## 📖 Introduction
 This project is designed to help understand and execute various MongoDB queries using Node.js and Express. It includes examples of filtering, sorting, pagination, and advanced queries using MongoDB operators.
